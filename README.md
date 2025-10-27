@@ -1,6 +1,6 @@
 # 基于CWRU数据集的电机故障检测
 ## 一.Neural network 训练及实验环境如下：
-### 硬件信息
+### 硬件配置信息
 ``` text
 CPU 型号:Inte164 Family 6 Model 183 Stepping 1, GenuineIntel
 帧率(FPS):54.87841226130907
@@ -11,7 +11,7 @@ GPU 信息:
 已用显存:4828.0 MB
 RAM 大小:63.8177604675293 GB
 ```
-### 软件信息
+### 环境配置信息
 ``` text
 Python 版本:3.9.19 (main, May 6 2024, 20:12:36) [MSC v.1916 64 bit (AMD64)]
 CUDA 版本:12.1
