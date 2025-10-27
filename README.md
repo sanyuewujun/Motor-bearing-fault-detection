@@ -18,6 +18,7 @@ Torchvision 版本:0.18.0+cu121
 ### 1.下载data_deal文件夹（该文件夹内为数据集）。
 ### 2.下载自己需要的模型和对应算法
 ### 3.代码运行需要的文件结构如下：
+``` text
 Motor-bearing-fault-fetection:
 ├─data_deal
 │      105.mat
@@ -33,7 +34,7 @@ Motor-bearing-fault-fetection:
 │
 └─mfd-stft-resnet50
         mfd-stft-resnet50.ipynb
-
+```
 #### 注：
 1.生成的数据集以及生成的权重参数会存放在对应模型的文件夹内。
 2.若神经网络模型无法运行，请优先检查代码中的路径是否正确。
