@@ -1,6 +1,7 @@
 # 基于CWRU数据集的电机故障检测
 ## 一.Neural network 训练及实验环境如下：
 ### 硬件信息
+``` text
 CPU 型号:Inte164 Family 6 Model 183 Stepping 1, GenuineIntel
 帧率(FPS):54.87841226130907
 GPU 信息:
@@ -9,11 +10,14 @@ GPU 信息:
 空闲显存:19315.0 MB
 已用显存:4828.0 MB
 RAM 大小:63.8177604675293 GB
+```
 ### 软件信息
+``` text
 Python 版本:3.9.19 (main, May 6 2024, 20:12:36) [MSC v.1916 64 bit (AMD64)]
 CUDA 版本:12.1
 PyTorch 版本:2.3.0+cu121
 Torchvision 版本:0.18.0+cu121
+```
 ## 二.使用方法：
 ### 1.下载data_deal文件夹（该文件夹内为数据集）。
 ### 2.下载自己需要的模型和对应算法
