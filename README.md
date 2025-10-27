@@ -17,7 +17,7 @@ Torchvision 版本:0.18.0+cu121
 ## 二.使用方法：
 ### 1.下载data_deal文件夹（该文件夹内为数据集）。
 ### 2.下载自己需要的模型和对应算法
-### 3.代码运行需要的文件结构如下：
+### 3.代码运行需要的文件结构如下(示例)：
 ``` text
 Motor-bearing-fault-fetection:
 ├─data_deal
